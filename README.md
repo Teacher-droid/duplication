@@ -1,0 +1,2 @@
+# duplication
+multiplication js tables
